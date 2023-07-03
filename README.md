@@ -7,6 +7,14 @@ NOAA](mailto:christopher.j.cox@noaa.gov) (NOAA) and [Michael Gallagher
 (CIRES/NOAA)](mailto:michael.r.gallagher@noaa.gov). This code integrates significant data processing work by [Ola
 Persson (CIRES/NOAA)](mailto:ola.persson@noaa.gov) and many components are derived from important research on turbulence calculations by Ola Persson, Andrey Grachev (CIRES/NOAA), and Chris Fairall (NOAA). 
 
+Copyright 2023 Michael Gallagher, Christopher Cox, Ola Persson, Chris Fairall, Andrey Grachev 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ## Data description: 
 
 Flux team data products exist at 4 "levels":
